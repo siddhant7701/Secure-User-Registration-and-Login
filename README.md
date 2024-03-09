@@ -1,4 +1,4 @@
-Secure User Registration and Login
+#Secure User Registration and Login
 
 1. Introduction
 Welcome to the documentation for the Secure User Registration and Login project. This project demonstrates a secure and efficient user registration and login system using Node.js, Express, MongoDB, and bcrypt for password hashing.
